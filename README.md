@@ -2,10 +2,6 @@
 
 ### farmeando aura
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoHernandez06&label=Profile views&color=0e75b6&style=flat" alt="RodrigoHernandez06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RodrigoHernandez06" alt="RodrigoHernandez06" /></a> </p>
-
 - 🌱 I'm currently learning **Arduino & algorithms**
 
 - 💬 Ask me about **C++**
