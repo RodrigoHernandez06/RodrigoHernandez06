@@ -13,3 +13,4 @@ love movies, coding, music and fun facts<br>20 yo<br>ESP / ENG / 日本語
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RodrigoHernandez06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
