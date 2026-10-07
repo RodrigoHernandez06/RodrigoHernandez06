@@ -1,5 +1,5 @@
 # 💫 About Me:
-love movies, coding, music and fun facts<br>20 yo<br>ESP / ENG / 日本語
+love movies, coding, reading, music and fun facts<br>20 yo<br>ESP / ENG / 日本語
 
 
 ## 🌐 Socials:
